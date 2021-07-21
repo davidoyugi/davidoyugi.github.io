@@ -18,7 +18,7 @@
 
 <h2 align="center">Live Preview</h2>
 
- 🔭 ClickHere for a live preview of my portfolio. [Portfolio site](https://davidoyugi.github.io/)
+  👉👉Click the link for a live preview of my portfolio.🔭 [Portfolio site](https://davidoyugi.github.io/)
 
 <h2>Copyright & License</h2>
 &copy David Oyugi, 2021
