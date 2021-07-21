@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm David Oyugi</h1>
 <h3 align="center">An upcoming software developer based in Kenya</h3>
 
-- 🔭 I’m currently working on my [Portfolio site](#)
+- 🔭 Here is a live preview of this project. [Portfolio site](https://davidoyugi.github.io/)
 
 
 <h3 align="left">Languages and Tools:</h3>
